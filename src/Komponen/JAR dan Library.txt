@@ -1,0 +1,12 @@
+MySQL JDBC Driver
+Absolute Layout
+JDK 1.8
+
+FrmTugas:
+Nama Database   : data_cuaca
+Nama User       : root
+
+FormUser:
+User        : admin (level admin) , user (level user) , andrew (level admin)
+Password    : admin (level admin) , user (level user) , andrew (level admin)
+
